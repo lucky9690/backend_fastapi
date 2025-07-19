@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+python-multipart
+aiofiles
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic
+sqlalchemy
